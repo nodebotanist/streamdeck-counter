@@ -1,20 +1,7 @@
-
-`Counter` is a sample plugin demonstrating the [Stream Deck SDK](https://developer.elgato.com/documentation/stream-deck/).
-
-
 # Description
-
-`Counter` is a simple plugin that displays the number of times a key is pressed. Pressing the key will increase the counter.
 
 
 # Features
-
-- code written in Javascript
-- cross-platform (macOS, Windows)
-- persistent settings (number of times the key was pressed)
-- localized
-
-![](screenshot.png)
 
 
 # Installation
